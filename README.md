@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 🔒 [Atividade-Encontro-Remoto-1]: Codificação de um sistema de contagem de peças, aplicando a linguagem JavaScript.
 
-🔓 [Atividade-Encontro-Remoto-2]: Codificação de um sistema de contagem e classificação
+🔒 [Atividade-Encontro-Remoto-2]: Codificação de um sistema de contagem e classificação
 
 
 __________________________________________________________________________________________
